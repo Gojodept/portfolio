@@ -86,7 +86,7 @@ const Home = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 animate-pulse opacity-20"></div>
               <div className="absolute inset-4 rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 opacity-20"></div>
               <img
-                src="src\components\sections\1665210800120.jpeg"
+                src="https://media.licdn.com/dms/image/v2/D4D03AQFykfM6QwXnqw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1665210800120?e=1751500800&v=beta&t=c5psZ4dPEZzeik1Ns9hAV_0Zgab0KJ_NtlA9BFfobHM"
                 alt="Profile"
                 className="absolute inset-8 rounded-full object-cover w-48 h-48 md:w-64 md:h-64 shadow-lg"
               />
