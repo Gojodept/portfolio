@@ -86,7 +86,7 @@ const Home = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 animate-pulse opacity-20"></div>
               <div className="absolute inset-4 rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 opacity-20"></div>
               <img
-                src="src\1665210800120.jpeg"
+                src="src\components\sections\1665210800120.jpeg"
                 alt="Profile"
                 className="absolute inset-8 rounded-full object-cover w-48 h-48 md:w-64 md:h-64 shadow-lg"
               />
